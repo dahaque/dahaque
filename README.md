@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Backend developer who spends most days making servers do exactly what they’re told—nothing more, nothing less. Node.js, Express, MongoDB, and a healthy dose of JavaScript are my daily tools. If it needs to scale, stay secure, or just not break at 3 a.m., I’m the one figuring it out
+.
+Right now I’m usually neck-deep in clean API design, JWT + cookies, file uploads with Multer and Cloudinary, solid error handling, and slowly getting better at structuring things so future-me doesn’t hate past-me. Readability and predictability win every time.
+
+Currently leveling up on proper backend architecture, testable code, and scalable patterns. Also sneaking in some React when the frontend needs a hand (turns out components are just functions with feelings). Learning never stops—mostly because forgetting is expensive.
+
+I take the craft seriously, just not myself. Calm, curious, and occasionally funny when the bug is ridiculous enough. If you need someone who ships working code without the drama, let’s talk
