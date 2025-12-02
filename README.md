@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Backend developer who spends most days making servers do exactly what they’re told—nothing more, nothing less. Node.js, Express, MongoDB, and a healthy dose of JavaScript are my daily tools. If it needs to scale, stay secure, or just not break at 3 a.m., I’m the one figuring it out.🤔
+Backend developer who spends most days making servers do exactly what they’re told, nothing more, nothing less. Node.js, Express, MongoDB, and a healthy dose of JavaScript are my daily tools. If it needs to scale, stay secure, or just not break at 3 a.m., I’m the one figuring it out.🤔
 
 Right now I’m usually neck-deep in clean API design, JWT + cookies, file uploads with Multer and Cloudinary, solid error handling, and slowly getting better at structuring things so future-me doesn’t hate past-me. Readability and predictability win every time.⚡
 
