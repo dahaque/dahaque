@@ -1,24 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Sadiq  a developer passionate about building clean, functional, and impactful web projects. I’m currently sharpening my skills in html,  css, JavaScript, Typescript, React, Node.js, expressJS. Alongside building full-stack applications, I’ve also started contributing to open-source. So far, I’ve contributed to OpenAPI Generator, and I’m actively exploring more opportunities to collaborate and learn from the community. I love working on real-world projects, improving my code quality, and growing as a developer every day.
 
-<!--
-**dahaque/dahaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/dahaque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadiq-nh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dahaquee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiqnhaque@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dahaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dahaque&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dahaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Backend developer who spends most days making servers do exactly what they’re told, nothing more, nothing less. Node.js, Express, MongoDB, and a healthy dose of JavaScript are my daily tools. If it needs to scale, stay secure, or just not break at 3 a.m., I’m the one figuring it out.🤔
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dahaque&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Right now I’m usually neck-deep in clean API design, JWT + cookies, file uploads with Multer and Cloudinary, solid error handling, and slowly getting better at structuring things so future-me doesn’t hate past-me. Readability and predictability win every time.⚡
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dahaque&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Currently leveling up on proper backend architecture, testable code, and scalable patterns. Also sneaking in some React when the frontend needs a hand (turns out components are just functions with feelings). Learning never stops—mostly because forgetting is expensive.
+---
+[![](https://visitcount.itsvg.in/api?id=dahaque&icon=2&color=0)](https://visitcount.itsvg.in)
 
-I take the craft seriously, just not myself. Calm, curious, and occasionally funny when the bug is ridiculous enough. If you need someone who ships working code without the drama, let’s talk😄
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
